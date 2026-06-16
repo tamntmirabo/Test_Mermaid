@@ -116,7 +116,7 @@ sequenceDiagram
 ## 5. Audio Memo Workflow
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"fontSize": "22px"}, "sequence": {"actorFontSize": 22, "messageFontSize": 22, "noteFontSize": 22}, "themeCSS": "text, tspan, .nodeLabel, .edgeLabel, .actor, .messageText, .labelText, .loopText, .noteText { font-size: 20px !important; }"}}%%
+%%{init: {"theme": "base", "themeVariables": {"fontSize": "28px"}, "sequence": {"actorFontSize": 28, "messageFontSize": 28, "noteFontSize": 28}, "themeCSS": "text, tspan, .nodeLabel, .edgeLabel, .actor, .messageText, .labelText, .loopText, .noteText { font-size: 28px !important; }"}}%%
 sequenceDiagram
     actor User
     participant ClientMemo as Client Audio Memo System
