@@ -44,7 +44,7 @@ sequenceDiagram
 ## 2. Client Join And Player Spawn
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"fontSize": "18px"}, "sequence": {"actorFontSize": 18, "messageFontSize": 18, "noteFontSize": 18}, "themeCSS": "text, tspan, .nodeLabel, .edgeLabel, .actor, .messageText, .labelText, .loopText, .noteText { font-size: 18px !important; }"}}%%
+%%{init: {"theme": "base", "themeCSS": "text, tspan, .nodeLabel, .edgeLabel, .actor, .messageText, .labelText, .loopText, .noteText { font-size: 28px !important; }"}}%%
 sequenceDiagram
     actor User
     participant StartUI as MenuStart
