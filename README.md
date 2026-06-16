@@ -12,7 +12,7 @@ This version keeps the app-level view readable by splitting the whole app flow i
 ## 0. App-Level Map
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"fontSize": "20px"}, "sequence": {"actorFontSize": 20, "messageFontSize": 20, "noteFontSize": 20}, "themeCSS": "text, tspan, .nodeLabel, .edgeLabel, .actor, .messageText, .labelText, .loopText, .noteText { font-size: 20px !important; }"}}%%
+%%{init: {"theme": "base", "themeVariables": {"fontSize": "22px"}, "sequence": {"actorFontSize": 22, "messageFontSize": 22, "noteFontSize": 22}, "themeCSS": "text, tspan, .nodeLabel, .edgeLabel, .actor, .messageText, .labelText, .loopText, .noteText { font-size: 22px !important; }"}}%%
 flowchart LR
     User["Quest User"] --> Client["Client App<br/>Menu, Player, Avatar, Tools"]
     Client <-->|"Netcode RPCs and NetworkVariables"| Server["Netcode Server<br/>Approval, Spawn, Authority"]
