@@ -44,7 +44,7 @@ sequenceDiagram
 ## 2. Client Join And Player Spawn
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"fontSize": "25px"}, "sequence": {"actorFontSize": 25, "messageFontSize": 25, "noteFontSize": 25, "messageMargin": 80}, "themeCSS": "text, tspan, .nodeLabel, .edgeLabel, .actor, .messageText, .labelText, .loopText, .noteText { font-size: 25px !important; }"}}%%
+%%{init: {"theme": "base", "themeVariables": {"fontSize": "25px"}, "sequence": {"actorFontSize": 25, "messageFontSize": 25, "noteFontSize": 25, "messageMargin": 180}, "themeCSS": "text, tspan, .nodeLabel, .edgeLabel, .actor, .messageText, .labelText, .loopText, .noteText { font-size: 25px !important; }"}}%%
 
 sequenceDiagram
     actor User
